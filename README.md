@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abraham</h1>
-<h3 align="center">A passionate web developer from Spain</h3>
+<h3 align="center">A passionate web developer and XR entusiast!</h3>
 
-- 🔭 I’m currently working on [a educational web kind-of Metaverse](https://rvirtual.srv.cesga.es)
+- 🔭 I’m currently working on [a educational web kind-of WebXR Metaverse](https://rvirtual.srv.cesga.es) at [Galicia supercomputing Center](https://www.cesga.gal).
+
+- 🛰️ Also developing a location based PWA mobile app for helping teachers to do schools science: [e-innoeduco2 app](https://innoeduco2.org/app/)
 
 - 🌱 I’m currently learning **a lot about WebXR and PWAs**
 
-- ⚡ Maker! **I love to give a second life to vintage electronics!**
+- ⚡ Maker! **I love to give a second life to vintage electronics!** I created this [Raspberry Pi World Radio](https://hackaday.io/project/174631-raspberry-pi-world-radio) and this [GPS autonomous rover](https://photos.app.goo.gl/2JR69CbNAjdiw3H7A)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
